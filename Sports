@@ -1,10 +1,12 @@
- <html>
- <body>
- <h1>Welcome to my Page</h1>
- <p>Hello World!  This is <b>me</b> <img src="me.jpg"> </p>
-
- <p>This is my second paragraph
- <a href="home.html">Click here for my homepage</a>
- </p>
- </body>
- </html>
+<html>
+<title>NFL</title>
+ <body bgcolor="blue">
+ <h1>NFL Stats</h1>
+   <hr>
+  <p>This website will show some of the stats of some of the best players in the NFL.
+    Here are some of the news from the <a href="https://www.google.com/search?q=nfl&rlz=1CATAVM_enUS865US865&oq=nfl&aqs=chrome.0.69i59l3j0l2j69i60.1246j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#sie=lg;/g/11ffv6kjj0;6;/m/059yj;nw;fp;1;;">NFL</a> 
+    
+    
+    <p><i>This years NFL MVP is most likely Russell Wilson. He has thrown for only three interceptions so far.</i></p>
+    
+ 
