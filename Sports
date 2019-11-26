@@ -1,9 +1,10 @@
-<html>
-<title>NFL</title>
- <body bgcolor="orange">
- <h1>Hello World!</h1>
-  <hr>
-   <p>This website is about the NFL leaders.</p> 
- 
+ <html>
+ <body>
+ <h1>Welcome to my Page</h1>
+ <p>Hello World!  This is <b>me</b> <img src="me.jpg"> </p>
+
+ <p>This is my second paragraph
+ <a href="home.html">Click here for my homepage</a>
+ </p>
  </body>
  </html>
