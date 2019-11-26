@@ -1,0 +1,25 @@
+<html>
+<title>Examples Using List Tags</title>
+<body bgcolor="blue">
+<!-- This is ignored by the computer as a comment... 
+We'll create an example to demenstrate some ways of creating lists in HTML
+First, an unordered list... like grocery list,
+-->
+
+<h2>Here is the top 4 candidates for MVP</h2>
+<ul> <!-- Here is our unordered list tag -->
+<li>Russell Wilson</li> <!-- list item -->
+<li>Lamar Jackson</li>
+<li>Christian McCaffrey</li>
+<li>Michael Thomas</li>
+</ul>
+  <h2> Top 3 Quarter backs</h2>
+  <ol type="A"> <!-- ordered list tag -->
+    <li>Russell Wilson</li>
+    <li>Lamar Jackson</li>
+    <li><i>Aaron Rodgers</i></li>
+  </ol>
+  
+  
+</body>
+</html>
